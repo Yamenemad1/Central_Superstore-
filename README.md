@@ -1,4 +1,5 @@
 Central Superstore Sales Insights Dashboard
+
 This project is a data visualization dashboard built in power bi, focused on sales analysis for the Central region of a fictional superstore. It provides insights into monthly sales trends, product performance, regional distribution, and customer impact, enabling data-driven decision-making for business stakeholders.
 
 Project Purpose
